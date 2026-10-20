@@ -10,14 +10,14 @@
       "m3u_url": "https://m3u.ch/pl/15d9f273324b766a102e6c48117e25a2_be449ba416bf96ac9fffdcf65199511e.m3u",
       "active": true,
       "is_admin": false,
-      "allowed_devices": 2
+      "allowed_devices": 10
     },
     {
       "code": "578833",
       "m3u_url": "https://m3u.ch/pl/15d9f273324b766a102e6c48117e25a2_be449ba416bf96ac9fffdcf65199511e.m3u",
       "active": true,
       "is_admin": true,
-      "allowed_devices": 1
+      "allowed_devices": 2
     }
   ]
 }
