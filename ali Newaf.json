@@ -2,19 +2,15 @@
   "users": [
     {
       "username": "ali",
-      "password": "123"
+      "password": "12345"
     },
     {
       "username": "Talal",
-      "password": "123"
+      "password": "12345"
     },
     {
-      "username": "employee3",
-      "password": "123"
-    },
-    {
-      "username": "employee4",
-      "password": "123"
+      "username": "3030",
+      "password": "3030"
     }
   ]
 }
