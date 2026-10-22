@@ -16,6 +16,13 @@
       "active": true,
       "is_admin": true,
       "allowed_devices": 2
+    },
+    {
+      "code": "ali",
+      "username": "ali",
+      "link": "12345",
+      "password": "12345",
+      
     }
   ]
 }
